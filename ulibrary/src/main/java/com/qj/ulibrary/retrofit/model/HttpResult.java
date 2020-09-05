@@ -1,7 +1,6 @@
 package com.qj.ulibrary.retrofit.model;
 
 /**
- * Created by helin on 2016/10/10 11:44.
  * 实体的基类
  */
 public class HttpResult<T> {
